@@ -1,1 +1,3 @@
 este es un archivo de prueba para el archivo readme
+
+Esta es una edicion que se realiza en el repositorio remoto(github) para simular cambios hechos por otra persona en el repositroio remoto.
